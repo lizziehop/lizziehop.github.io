@@ -1,7 +1,4 @@
 print("Hello this is practice")
 
-first = Liz
-last = Hopwood
-red = 5
-blue = 10
-print (red, blue)
+states = {"IL": "Illinois", "MA": "Massachusetts"}
+my_info = {"first_name": "Liz", "last_name": "Hopwood", "hometown": "Boston", "favorite_food": "donuts"}
